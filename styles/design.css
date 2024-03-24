@@ -1,0 +1,39 @@
+/* .header{
+    background: url('../styles/images/banner/banner3.png');
+} */
+.header{
+    background-image: url("../styles/images/banner/banner3.png");
+    width: 1600px;
+    height: 808px;
+    flex-shrink: 0;
+}
+
+.header-content{
+    text-align: right;
+    padding: 216px 230px 364px 845px;
+}
+.header-starting{
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+    font-family: "Work Sans";
+    margin-bottom: 24px;
+    
+}
+.header-description{
+    color: #FFF;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #FFF;
+    width: 160px;
+    height: 64px;
+    color: #005FAC;
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-weight: 600;
+}
