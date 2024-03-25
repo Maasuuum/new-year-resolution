@@ -37,3 +37,30 @@
     font-size: 20px;
     font-weight: 600;
 }
+
+.banner{
+    display: flex;
+    align-items: center;
+    /* width: 1600px;
+    height: 3229px; */
+    padding: 100px 100px 320px 200px;
+}
+.banner-content{
+    margin-left: 100px;
+}
+.banner-first{
+    color:#151414;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.banner-description{
+    color:#444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+.banner-list{
+    color:#444343;
+    font-size: 16px;
+    font-weight: 400;
+}
