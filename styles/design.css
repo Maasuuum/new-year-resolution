@@ -64,3 +64,42 @@
     font-size: 16px;
     font-weight: 400;
 }
+
+/* section related styles */
+.section-one{
+    /* display: flex; */
+    /* align-items: center; */
+}
+
+.section-title{
+    /* align-items: center; */
+    margin: 50px 700px;
+    color: var(--Dark-01, #151414);
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.section-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.plans{
+    text-align: center;
+}
+.plans-head{
+    color: var(--Dark-01, #151414);
+    font-family: "Work Sans";
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.plans-para{
+    color: var(--Dark-03, #737272);
+    font-family: "Work Sans";
+    font-size: 25px;
+    font-weight: 500;
+}
